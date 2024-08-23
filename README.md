@@ -9,9 +9,9 @@ A simple and functional to-do list application built with HTML, CSS, and vanilla
 - **Delete Tasks:** Remove tasks when they are completed or no longer needed.
 - **Persistent Storage:** Tasks are saved in local storage, so they persist even after closing the browser.
 
-- ## Screenshots
+## Screenshots
 
-- ![image](https://github.com/user-attachments/assets/4dd222c9-67af-49b2-bcff-00e611df9a86)
+![image](https://github.com/user-attachments/assets/4dd222c9-67af-49b2-bcff-00e611df9a86)
 
 ## Usage
 
